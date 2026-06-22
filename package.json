@@ -10,5 +10,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garryv101/fullstack-chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garryv101/fullstack-chat/issues"
+  },
+  "homepage": "https://github.com/garryv101/fullstack-chat#readme"
 }
